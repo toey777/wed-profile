@@ -1,1 +1,1 @@
-# wed-profile
+# wedprofile
